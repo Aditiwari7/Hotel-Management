@@ -1,5 +1,1 @@
-# About
-An Application using JavaFX via Scene Builder and MySQL
-
-# Run
-Run .sql file in phpmyadmin and change the localhost according to your own
+An application used to adding and booking of rooms for customer. Technology used JavaFX and MySQL. 
